@@ -1,10 +1,10 @@
 ## I'm James, a full stack developer from Valencia (via London, Berlin, and the East Midlands). Welcome to my repo!
 
-I'm looking for full-time or project-based work that'll test both my creativity and coding skills.
+I'm looking for full-time or project-based work that'll test both my creativity and coding skills. I love to create, to problem solve, and to dive into uncharted territories.
 
 - I pick things up quickly. 🏎
-- I love untangling complex things. 🧩
-- I welcome any opportunity to experiment, apply my weird sense of humour, and create things through words, images, and code. (I would do music too, but sadly I lack any sense of rhythm.) 🎷
+- I've got a knack for solving complex problems. 🧩
+- I welcome any opportunity to experiment, apply my weird sense of humour, and build things using words, images, and code. (I would do music too, but sadly I lack any sense of rhythm.) 🎷
 
 [@Codeworks](https://github.com/codeworks) alumni. Creative Director, copywriter, and team lead in a past life.
 
