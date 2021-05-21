@@ -21,8 +21,10 @@ I'm looking for full-time or project-based work that'll test both my creativity 
 <code><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></code>
 <code><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></code>
-<code><img alt="React" src="https://img.shields.io/badge/-React%20&%20React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></code>
-<code><img alt="Redux" src="https://img.shields.io/badge/-Redux%20&%20Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge"></code>
+<code><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></code>
+<code><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></code>
+<code><img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge"></code>
+<code><img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=black&style=for-the-badge"></code>
 <code><img alt="Adobe InDesign" src="https://img.shields.io/badge/-Adobe%20InDesign-FF3366?logo=adobe-indesign&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=black&style=for-the-badge"></code>
@@ -31,8 +33,8 @@ I'm looking for full-time or project-based work that'll test both my creativity 
 
 <code><img alt="C" src="https://img.shields.io/badge/-c-A8B9CC?logo=c&logoColor=black&style=for-the-badge"></code>
 <code><img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge"></code>
-<code><img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></code>
+<code><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"></code>
 <code><img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"></code>
 <code><img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge"></code>
