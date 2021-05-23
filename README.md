@@ -53,26 +53,10 @@ I'm looking for full-time or project-based work that'll test both my creativity 
 <code><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"></code>
-
-
-
-
-
-
-
-
-
-<!--
-**jachamberlain86/jachamberlain86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"></code>
+<code><img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-FF61F6?logo=adobe-xd&logoColor=black&style=for-the-badge"></code>
+<code><img alt="Miro" src="https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white&style=for-the-badge"></code>
+<code><img alt="Twine" src="https://img.shields.io/badge/-Twine-339933?logoColor=white&style=for-the-badge"></code>
+<code><img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge"></code>
+<code><img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge"></code>
+<code><img alt="Jira Software" src="https://img.shields.io/badge/-Jira Software-0052CC?logo=jira-software&logoColor=white&style=for-the-badge"></code>
