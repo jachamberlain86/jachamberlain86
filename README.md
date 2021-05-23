@@ -32,6 +32,7 @@ I'm looking for full-time or project-based work that'll test both my creativity 
 ### And some others I've used...
 
 <code><img alt="C" src="https://img.shields.io/badge/-c-A8B9CC?logo=c&logoColor=black&style=for-the-badge"></code>
+<code><img alt="Ruby" src="https://img.shields.io/badge/-ruby-CC342D?logo=lua&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></code>
 <code><img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"></code>
