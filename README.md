@@ -10,7 +10,7 @@ I'm looking for full-time or project-based work that'll test both my creativity 
 
 ### I'm currently...
 
-- Deploying, balancing, and expanding Quaranteeny, (a quaratine themed idle game built in TypeScript with React, Redux Toolkit, Express, PostgreSQL and TypeORM). 🕹
+- Balancing and expanding [Quaranteeny](https://www.quaranteeny.life/), (a quaratine themed idle game built in TypeScript with React, Redux Toolkit, Express, PostgreSQL and TypeORM). 🕹
 - Learning about building better main loops, using requestAnimationFrame, and levelling up my Sass and Redux skills. 🧑‍💻
 - Looking for open source projects to contribute to. 👀
 - Planning my next project, ESC, an online escape room builder and hosting platform. 🔒
