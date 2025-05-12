@@ -8,6 +8,8 @@ I'm currently looking for full-time, fully remote work that'll test both my crea
 
 Senior Web Developer at [Cala](https://github.com/eatcala), building mobile apps, in-house platforms, and a new backend. [Codeworks](https://github.com/codeworks) alumni. Creative Director, copywriter, and team lead in a past life.
 
+Recent projects have been closed source, but I have permission to show code on request.
+
 
 ### Languages and Tools I'm currently using...
 
