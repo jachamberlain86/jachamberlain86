@@ -1,6 +1,6 @@
 ## I'm James, a Full Stack Developer from Valencia (via London, Berlin, and the East Midlands).
 
-I'm currently looking for full-time, fully remote work that'll test both my creativity and coding skills. I love to make, to problem solve, and to dive into the unknown.
+I'm currently looking for full-time, remote or hybrid work that'll test both my creativity and coding skills. I love to make, to problem solve, and to dive into the unknown.
 
 - I pick things up quickly. 🏎
 - I've got a knack for solving complex problems. 🧩
