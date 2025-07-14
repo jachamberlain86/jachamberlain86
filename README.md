@@ -1,4 +1,4 @@
-## I'm James, a Full Stack Developer from Valencia (via London, Berlin, and the East Midlands).
+## I'm James, a Full Stack Developer from the UK (via Valencia, London, Berlin, and the East Midlands).
 
 I'm currently looking for full-time, remote or hybrid work that'll test both my creativity and coding skills. I love to make, to problem solve, and to dive into the unknown.
 
